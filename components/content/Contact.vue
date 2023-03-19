@@ -8,8 +8,8 @@
         </div>
         <div class="contact-content flex flex-wrap gap-16 mt-18">
           <div class="contact-method items-center flex gap-3">
-            <span class="bg-white rounded-full shadow-lg p-5">
-              <FontAwesomeIcon icon="fa-solid fa-envelope" />
+            <span class="bg-white text-3xl rounded-full shadow-lg p-3">
+              <FontAwesomeIcon icon="fa-solid fa-location" />
             </span>
             <div class="contact-info flex flex-col gap-2">
               <h3 class="text-[#2d2e32] text-xl font-semibold">Location</h3>
@@ -17,12 +17,12 @@
             </div>
           </div>
           <div class="contact-method items-center flex gap-3">
-            <span class="bg-white rounded-full shadow-lg p-5">
+            <span class="bg-white text-3xl rounded-full shadow-lg p-3">
               <FontAwesomeIcon icon="fa-solid fa-envelope" />
             </span>
             <div class="contact-info flex flex-col gap-2">
               <h3 class="text-[#2d2e32] text-xl font-semibold">Email</h3>
-              <p class="text-[#767676] text-lg"><a href="mailto:H.MaxWilson@hotmail.com"></a>H.MaxWilson@hotmail.com</p>
+              <a class="text-[#767676] text-lg hover:text-blue-600 cursor-pointer" href="mailto:H.MaxWilson@hotmail.com">H.MaxWilson@hotmail.com</a>
             </div>
           </div>
         </div>

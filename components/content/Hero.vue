@@ -20,7 +20,7 @@
                         <div class="skills items-center color-[#767676] flex flex-col text-2xl space-y-4">
                             <p class="border-b-2 border-[#2d2e380] font-semibold pb-2">Tech Stack</p>
                             <div class="logos">
-                                <ul class="flex flex-wrap gap-4 justify-start lg:justify-center">
+                                <ul class="flex flex-wrap gap-4 justify-center">
                                     <li class="items-center bg-white rounded-full shadow-md flex h-14 w-14 justify-center">
                                         <img class="h-auto w-8" src="/images/tech/git.svg" alt="Github" />
                                     </li>
