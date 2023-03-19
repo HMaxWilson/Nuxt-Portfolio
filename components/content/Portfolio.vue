@@ -1,5 +1,5 @@
 <template>
-  <section id="portfolio" class="portfolio bg-[#fff] py-16">
+  <section id="portfolio" class="portfolio bg-[#fff] py-24">
     <div class="container mx-auto max-w-[68rem] px-4">
       <div class="content flex flex-col space-y-4">
         <h3 class="text-[#147efb] text-2xl font-semibold uppercase">Portfolio</h3>

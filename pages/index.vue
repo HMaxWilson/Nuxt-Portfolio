@@ -12,7 +12,6 @@
     import Navigation from "/components/Navigation.vue";
     import Footer from "/components/Footer.vue";
     import Hero from "/components/content/Hero.vue";
-    import About from "/components/content/About.vue";
     import Portfolio from "/components/content/Portfolio.vue";
     import Contact from "/components/content/Contact.vue";
 </script>
